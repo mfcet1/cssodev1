@@ -1,0 +1,26 @@
+
+body {
+    
+    margin: 0 auto;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    background-color: #DFF6FF;
+}
+/***************** Yatay NavBar **************/
+.hor {
+    display: inline;
+    text-decoration:underline;
+    padding: 8px;
+    font-size: 20px;
+    margin: auto;
+}
+
+h1, h2, h3, h4, h5, h6, a {
+    color: #06283d;
+}
+/**************** Cerceve *******************/
+ img {
+    border: 6px solid #06283d;
+    border-radius: 10px;
+ }
